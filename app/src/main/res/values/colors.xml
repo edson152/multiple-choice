@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008547</color>
+    <color name="colorPrimaryDark">#00572B</color>
+    <color name="colorAccent">#D81B60</color>
+    <string name="score">Score</string>
+</resources>
